@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "PD_BALZAC_PHYSIOLOGY_1829",
+    "topic": "Marriage Philosophy",
+    "sub_topic": "Societal Critique",
+    "faith_perspective": "Secular/Historical",
+    "source_type": "Book",
+    "source_reference": "Balzac, Honoré de. The Physiology of Marriage. 1829.",
+    "source_url": "https://www.gutenberg.org/ebooks/16205",
+    "publication_year": 1829,
+    "author": "Honoré de Balzac",
+    "public_domain_status": "Confirmed (Pre-1929)",
+    "content_summary": "A satirical and philosophical examination of marriage in 19th-century French society, analyzing its challenges, hypocrisies, and the dynamics between husbands and wives.",
+    "content_detailed": "Full text available in linked file.",
+    "full_text_path": "./texts/balzac_physiology_marriage_1829.txt",
+    "keywords": ["marriage", "philosophy", "sociology", "19th century", "Balzac", "critique", "adultery", "husband", "wife"],
+    "qa_pairs": [],
+    "instruction_response": []
+  }
+]

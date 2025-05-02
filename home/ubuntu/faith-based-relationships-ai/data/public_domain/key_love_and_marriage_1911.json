@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "PD_KEY_LOVEANDMARRIAGE_1911",
+    "title": "Love and Marriage",
+    "author": "Ellen Key",
+    "publication_year": 1911,
+    "source_type": "Book/Social Commentary/Philosophy",
+    "source_reference": "Project Gutenberg eBook #57592",
+    "source_url": "https://www.gutenberg.org/ebooks/57592",
+    "text_file_path": "./texts/key_love_and_marriage_1911.txt",
+    "topic": "Marriage Philosophy",
+    "sub_topics": [
+      "Love",
+      "Marriage",
+      "Individualism",
+      "Motherhood",
+      "Feminism",
+      "Social Evolution",
+      "Sexual Morality",
+      "Free Love",
+      "Divorce"
+    ],
+    "faith_perspective": "Secular/Philosophical",
+    "content_summary": "A collection of essays by the Swedish feminist and writer Ellen Key, exploring her views on love, marriage, individualism, motherhood, and the evolution of social and sexual morality. Key advocates for the importance of love as the basis for marriage and relationships, critiques conventional marriage, discusses the rights of women and children, and envisions future forms of relationships based on freedom and individual development.",
+    "content_detailed": "The book delves into Ellen Key's influential and often controversial ideas about the relationship between the individual and society, particularly concerning love and marriage. She argues for \"the right to love\" and emphasizes erotic love as essential for personal fulfillment and societal progress. Key critiques the institution of marriage as it existed, advocating for reforms that prioritize love, mutual respect, and individual freedom. She discusses the concept of \"free love,\" the importance of motherhood (both biological and spiritual), the need for economic independence for women, and the necessity of divorce reform. Key connects these themes to broader ideas about social evolution and the development of a new morality based on individual conscience and the enhancement of life.",
+    "keywords": [
+      "love",
+      "marriage",
+      "feminism",
+      "individualism",
+      "motherhood",
+      "sexual morality",
+      "social reform",
+      "free love",
+      "divorce",
+      "early 20th century",
+      "Swedish literature",
+      "philosophy",
+      "Ellen Key"
+    ],
+    "qa_pairs": [],
+    "instruction_response": [],
+    "notes": "Originally published in Swedish; this is the 1911 English translation. Clearly in the public domain in most regions including the US."
+  }
+]

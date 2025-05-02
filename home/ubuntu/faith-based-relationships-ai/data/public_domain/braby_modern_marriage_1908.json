@@ -1,0 +1,50 @@
+[
+  {
+    "entry_id": "PD_BRABY_MODERNMARRIAGE_1908",
+    "title": "Modern Marriage and How to Bear It",
+    "author": "Maud Churton Braby",
+    "publication_year": 1908,
+    "source_type": "Book/Social Commentary",
+    "source_reference": "Project Gutenberg eBook #31529",
+    "source_url": "https://www.gutenberg.org/ebooks/31529",
+    "text_file_path": "./texts/braby_modern_marriage_1908.txt",
+    "topic": "Marriage Advice",
+    "sub_topics": [
+      "Sex Antagonism",
+      "Reasons for Not Marrying",
+      "Causes of Marital Failure",
+      "Age to Marry",
+      "Infidelity",
+      "Training of Girls",
+      "Alternatives to Marriage",
+      "Free Love",
+      "Polygamy",
+      "Polyandry",
+      "Leasehold Marriage",
+      "Parenthood",
+      "Family Limitation",
+      "Marital Happiness"
+    ],
+    "faith_perspective": "Secular/Social Commentary",
+    "content_summary": "A frank and witty discussion of the challenges of marriage in the early 20th century, exploring reasons for marital dissatisfaction and failure, societal changes affecting relationships, suggested alternatives (like leasehold marriage), the role of children, and practical advice for achieving happiness within marriage.",
+    "content_detailed": "The book examines the growing dissatisfaction between sexes, reasons men and women avoid marriage (economic, social, personal), the plight of unmarried individuals, different types of marriages, common causes of conflict (money, sex, children, in-laws, communication), the optimal age to marry, infidelity ('Wild Oats for Wives'), the need for better education for girls, the 'crux' of fidelity, critiques of alternatives like free love and polygamy, discusses 'leasehold marriage' and 'duogamy', addresses the question of parenthood and family size, and concludes with suggestions for reform and practical advice for husbands and wives.",
+    "keywords": [
+      "marriage advice",
+      "modern marriage",
+      "sex antagonism",
+      "marital conflict",
+      "divorce",
+      "infidelity",
+      "free love",
+      "polygamy",
+      "parenthood",
+      "feminism",
+      "early 20th century",
+      "social commentary",
+      "Maud Churton Braby"
+    ],
+    "qa_pairs": [],
+    "instruction_response": [],
+    "notes": "Published 1908, clearly in the public domain in most regions including the US."
+  }
+]

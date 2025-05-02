@@ -1,0 +1,45 @@
+[
+  {
+    "entry_id": "PD_GOODHOUSEKEEPING_MARRIAGE_1938",
+    "title": "The Good Housekeeping Marriage Book: Twelve Steps to a Happy Marriage",
+    "author": "Various (Edited by William F. Bigelow)",
+    "publication_year": 1938,
+    "source_type": "Collection of Articles",
+    "source_reference": "Project Gutenberg eBook #20830",
+    "source_url": "https://www.gutenberg.org/ebooks/20830",
+    "text_file_path": "./texts/good_housekeeping_marriage_book_1938.txt",
+    "topic": "Marriage Advice",
+    "sub_topics": [
+      "Courtship",
+      "Engagement",
+      "Finances",
+      "Parenthood",
+      "Conflict Resolution",
+      "Sex Education",
+      "Monogamy",
+      "Working Wives",
+      "Religion in Home"
+    ],
+    "faith_perspective": "Secular/General Advice",
+    "content_summary": "A collection of articles from various authors (including Ernest Groves, Eleanor Roosevelt, William Lyon Phelps) offering practical advice on different stages and aspects of marriage, from courtship to handling conflict and raising children, reflecting early-to-mid 20th-century perspectives.",
+    "content_detailed": "The book compiles twelve articles covering courtship, engagement, the decision to marry, whether wives should work, adjusting to married life, managing finances, having children, avoiding divorce, sex education in the home, religion in the home, the benefits of happy marriage, and a defense of monogamy. Contributors include prominent figures and experts of the time.",
+    "keywords": [
+      "marriage advice",
+      "courtship",
+      "engagement",
+      "finances",
+      "children",
+      "conflict resolution",
+      "sex education",
+      "monogamy",
+      "1930s",
+      "Good Housekeeping",
+      "Ernest Groves",
+      "Eleanor Roosevelt",
+      "William Lyon Phelps"
+    ],
+    "qa_pairs": [],
+    "instruction_response": [],
+    "notes": "Copyright 1938. Public domain status in the US is unlikely (published 1929-1963 requires renewal check, copyright notice present). May be PD in other regions (e.g., Canada - author death + 50 years, but multiple authors complicates this). Included for completeness of search results, requires careful legal review before use/distribution."
+  }
+]

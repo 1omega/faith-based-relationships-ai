@@ -1,0 +1,20 @@
+[
+  {
+    "entry_id": "PD_FERRIER_MARRIAGE_1818",
+    "topic": "Marriage in Society",
+    "sub_topic": "Novel/Satire",
+    "faith_perspective": "Secular/Historical",
+    "source_type": "Book",
+    "source_reference": "Ferrier, Susan. Marriage. 1818.",
+    "source_url": "https://www.gutenberg.org/ebooks/12669",
+    "publication_year": 1818,
+    "author": "Susan Ferrier",
+    "public_domain_status": "Confirmed (Pre-1929)",
+    "content_summary": "A satirical novel depicting societal views and expectations surrounding marriage in early 19th-century Scotland and England, contrasting romantic ideals with pragmatic considerations.",
+    "content_detailed": "Full text available in linked file.",
+    "full_text_path": "./texts/ferrier_marriage_1818.txt",
+    "keywords": ["marriage", "novel", "satire", "19th century", "Ferrier", "society", "Scotland", "England", "romance", "pragmatism"],
+    "qa_pairs": [],
+    "instruction_response": []
+  }
+]

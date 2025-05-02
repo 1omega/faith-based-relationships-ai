@@ -1,0 +1,37 @@
+[
+  {
+    "entry_id": "PD_BESANT_MARRIAGE_1882",
+    "title": "Marriage, As It Was, As It Is, and As It Should Be: A Plea for Reform",
+    "author": "Annie Besant",
+    "publication_year": 1882,
+    "source_type": "Essay/Book",
+    "source_reference": "Project Gutenberg eBook #47000",
+    "source_url": "https://www.gutenberg.org/ebooks/47000",
+    "text_file_path": "./texts/besant_marriage_reform_1882.txt",
+    "topic": "Marriage Reform",
+    "sub_topics": [
+      "History of Marriage",
+      "Legal Status of Women",
+      "Divorce Reform",
+      "Equality in Marriage",
+      "Critique of Christian Marriage"
+    ],
+    "faith_perspective": "Secular/Freethought",
+    "content_summary": "A critical essay arguing for radical reform of marriage laws based on principles of equality, individual liberty, and rationalism. Besant critiques the historical and then-current state of marriage, particularly its legal subjugation of women, and advocates for marriage as a free contract dissoluble at will, with equal rights and responsibilities for both partners.",
+    "content_detailed": "The work traces the history of marriage from ancient times (Hebrew, Egyptian, Roman) through the influence of Christianity and into the 19th century English legal system. It highlights the historical view of wives as property and the legal disabilities imposed upon married women. Besant strongly criticizes the indissolubility of marriage and the double standards in divorce law. She argues for the complete legal equality of husband and wife, the wife's right to her own property and person, and the recognition of marriage as a private contract based on love, not legal or religious compulsion. The ideal marriage, according to Besant, is a partnership of equals, freely entered and freely dissoluble when love ceases, with shared responsibility for children.",
+    "keywords": [
+      "marriage reform",
+      "women's rights",
+      "legal equality",
+      "divorce",
+      "free contract",
+      "Annie Besant",
+      "19th century",
+      "freethought",
+      "secularism",
+      "history of marriage"
+    ],
+    "qa_pairs": [],
+    "instruction_response": []
+  }
+]
