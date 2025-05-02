@@ -1,0 +1,127 @@
+{
+  "christian_relationships_global": {
+    "metadata": {
+      "last_updated": "2025-05-02",
+      "sources": [
+        "Pew Research Center",
+        "Institute for Family Studies",
+        "Center for the Study of Global Christianity",
+        "Baylor University"
+      ],
+      "notes": "Data focuses on recent studies (post-2010) with global coverage where available. Some regions lack specific relationship data."
+    },
+    "population": {
+      "total_christians_2020": {
+        "value": 2380000000,
+        "year": 2020,
+        "source": "Pew Research Center",
+        "breakdown": {
+          "catholic": 1300000000,
+          "protestant": 900000000,
+          "orthodox": 280000000,
+          "other": 24000000
+        },
+        "distribution": {
+          "sub_saharan_africa": "24%",
+          "americas": "37%",
+          "europe": "26%",
+          "asia_pacific": "13%"
+        }
+      },
+      "growth_projections": {
+        "2050_estimate": 3000000000,
+        "fastest_growth": ["Africa (2.77%)", "Asia (1.50%)"],
+        "source": "Pew Research Center"
+      }
+    },
+    "marriage_happiness": {
+      "church_attendance": {
+        "regular_attendance_happiness": {
+          "value": "78%",
+          "year": 2022,
+          "source": "Institute for Family Studies",
+          "details": "Couples attending church together report very/extremely happy relationships."
+        },
+        "prayer_together": {
+          "value": "78%",
+          "year": 2022,
+          "source": "Institute for Family Studies",
+          "details": "Couples praying together weekly report high happiness."
+        }
+      },
+      "religious_friends": {
+        "value": "76%",
+        "year": 2022,
+        "source": "Institute for Family Studies",
+        "details": "Couples with mutual religious friends report happy relationships."
+      }
+    },
+    "divorce_stability": {
+      "direct_marriages": {
+        "religious_upbringing": {
+          "value": "43%",
+          "year": 2021,
+          "source": "Institute for Family Studies",
+          "details": "Women with religious upbringing enter direct marriages (no cohabitation) by age 35."
+        },
+        "non_religious_upbringing": {
+          "value": "28%",
+          "year": 2021,
+          "source": "Institute for Family Studies"
+        }
+      },
+      "cohabitation_impact": {
+        "divorce_risk_increase": "15%",
+        "year": 2021,
+        "source": "Institute for Family Studies"
+      },
+      "interfaith_marriages": {
+        "post_2010": "18%",
+        "pre_1960": "5%",
+        "year": 2015,
+        "source": "Pew Research Center",
+        "region": "United States"
+      }
+    },
+    "conversions": {
+      "muslim_to_christian": {
+        "total": 10200000,
+        "year": 2015,
+        "source": "Baylor University",
+        "key_countries": {
+          "indonesia": 6500000,
+          "nigeria": 600000,
+          "iran": 500000,
+          "ethiopia": 400000
+        }
+      }
+    },
+    "gender_dynamics": {
+      "church_membership": {
+        "female_share": "52%",
+        "year": 2023,
+        "source": "Center for the Study of Global Christianity",
+        "highest_female_share": "Mongolia (63%)"
+      },
+      "attendance": {
+        "female_dominance": "Up to 75% in some denominations",
+        "year": 2023,
+        "source": "Center for the Study of Global Christianity"
+      }
+    },
+    "covid_impact": {
+      "faith_strengthening": {
+        "value": "15%",
+        "year": 2020,
+        "source": "Pew Research Center",
+        "details": "Reported in Christian-majority countries."
+      },
+      "family_relationships": {
+        "value": "32%",
+        "year": 2020,
+        "source": "Pew Research Center",
+        "details": "Stronger family relationships reported."
+      }
+    }
+  }
+}
