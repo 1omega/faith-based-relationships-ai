@@ -1,0 +1,59 @@
+[
+  {
+    "entry_id": "COUNSEL_COMM_ACTIVE_LISTENING",
+    "topic": ["Communication", "Counseling Principles", "Empathy", "Conflict Resolution"],
+    "sub_topic": "Active Listening Skills",
+    "faith_perspective": "Christian",
+    "source_type": "Counseling Guide", 
+    "source_reference": {
+      "text": "General Counseling Principles (Christian Perspective)",
+      "url": null
+    },
+    "content_summary": "Active listening is a communication technique requiring the listener to fully concentrate, understand, respond, and remember what is being said. It involves paying attention non-verbally (eye contact, posture) and verbally (summarizing, asking clarifying questions, reflecting feelings) to show empathy and ensure understanding.",
+    "content_detailed": "Active listening is crucial for healthy relationships and effective counseling, aligning with Christian values of empathy, understanding, and valuing others (Philippians 2:3-4, James 1:19). It goes beyond simply hearing words; it involves a conscious effort to understand the complete message being sent. Key components include: 1) **Paying Attention:** Minimizing distractions, maintaining eye contact, and using non-verbal cues (nodding, leaning in) to show engagement. 2) **Showing You Are Listening:** Using verbal affirmations (","uh-huh",", "I see",") and appropriate body language. 3) **Providing Feedback:** Paraphrasing or summarizing the speaker's points to confirm understanding (","So, if I understand correctly, you're feeling...","). 4) **Deferring Judgment:** Avoiding interruption and withholding criticism or advice until the speaker has finished and understanding is confirmed. 5) **Responding Appropriately:** Communicating understanding and empathy, asking clarifying questions respectfully, and sharing your own views thoughtfully once the speaker feels heard. Practicing active listening helps build trust, reduces misunderstandings, resolves conflicts, and demonstrates Christ-like love and care.",
+    "keywords": ["active listening", "communication skills", "empathy", "understanding", "counseling", "relationships", "conflict resolution", "paraphrasing", "summarizing", "non-verbal communication", "validation", "James 1:19", "Philippians 2:3-4"],
+    "related_scripture": [
+      {
+        "text": "James 1:19 (Quick to listen, slow to speak)",
+        "url": "https://www.biblegateway.com/passage/?search=James+1%3A19&version=NIV"
+      },
+      {
+        "text": "Proverbs 18:13 (Answering before hearing)",
+        "url": "https://www.biblegateway.com/passage/?search=Proverbs+18%3A13&version=NIV"
+      },
+      {
+        "text": "Philippians 2:3-4 (Value others above yourselves)",
+        "url": "https://www.biblegateway.com/passage/?search=Philippians+2%3A3-4&version=NIV"
+      }
+    ],
+    "related_entries": ["SCRPT_PROV_15_1_GENTLE_ANSWER", "SCRPT_EPH_4_29-32_COMM_FORGIVE"],
+    "qa_pairs": [
+      {
+        "question": "What is active listening?",
+        "answer": "Active listening is a communication technique where the listener fully concentrates on the speaker, understands their message, responds thoughtfully, and remembers the information, often involving verbal and non-verbal feedback to show engagement and confirm understanding."
+      },
+      {
+        "question": "Why is active listening important in Christian relationships?",
+        "answer": "Active listening is important in Christian relationships because it reflects values like empathy, humility, and valuing others (Philippians 2:3-4). It helps build trust, prevents misunderstandings, aids conflict resolution, and demonstrates care, aligning with the call to be \"quick to listen\" (James 1:19)."
+      },
+      {
+        "question": "What are some key skills involved in active listening?",
+        "answer": "Key skills include paying full attention, using non-verbal cues (like eye contact and nodding), providing verbal affirmations, paraphrasing or summarizing to check understanding, deferring judgment, and responding empathetically and appropriately."
+      }
+    ],
+    "instruction_response": [
+      {
+        "instruction": "Explain the technique of active listening and its components.",
+        "response": "Active listening is a method of fully engaging with a speaker to understand their message completely. Its components include: 1) Paying Attention (minimizing distractions, using non-verbal cues), 2) Showing Engagement (verbal affirmations, body language), 3) Providing Feedback (paraphrasing, summarizing), 4) Deferring Judgment (avoiding interruption, withholding premature advice), and 5) Responding Appropriately (showing empathy, asking clarifying questions)."
+      }
+    ],
+    "metadata": {
+      "creation_date": "2025-05-02",
+      "last_modified_date": "2025-05-02",
+      "contributor": "Initial Seed",
+      "version": 1,
+      "moderation_status": "Approved"
+    }
+  }
+]
+

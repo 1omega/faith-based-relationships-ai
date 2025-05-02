@@ -1,0 +1,63 @@
+[
+  {
+    "entry_id": "SCRPT_EPH_5_21-33_ROLES_LOVE",
+    "topic": ["Marriage", "Roles", "Submission", "Love", "Christology"],
+    "sub_topic": "Husbands and Wives / Christ and the Church",
+    "faith_perspective": "Christian",
+    "source_type": "Scripture",
+    "source_reference": {
+      "text": "Ephesians 5:21-33 (NIV)",
+      "url": "https://www.biblegateway.com/passage/?search=Ephesians+5%3A21-33&version=NIV"
+    },
+    "content_summary": "Begins with mutual submission (v. 21). Instructs wives to submit to their husbands as the church submits to Christ (v. 22-24). Commands husbands to love their wives sacrificially, as Christ loved the church and gave himself up for her, nourishing and cherishing her (v. 25-30). The marriage relationship reflects the mystery of Christ and the church, emphasizing love and respect (v. 31-33).",
+    "content_detailed": "This significant passage addresses roles and responsibilities within Christian marriage, framed by the principle of mutual submission \"out of reverence for Christ\" (v. 21). It specifically calls wives to submit to their husbands in everything \"as to the Lord,\" drawing a parallel between the husband's headship and Christ's headship over the church (v. 22-24). The primary and more extensive instruction is directed towards husbands: they are commanded to love their wives with a sacrificial, sanctifying, and selfless love, mirroring Christ's love for the church (v. 25-28). This love involves nourishing and cherishing, just as one cares for their own body, and as Christ cares for the church (v. 29-30). Paul quotes Genesis 2:24 (\"one flesh\") and describes the marital union as a profound mystery that reflects the relationship between Christ and His church (v. 31-32). The passage concludes by summarizing the core responsibilities: the husband is to love his wife as himself, and the wife is to respect her husband (v. 33). Interpretation requires careful consideration of the context, mutual submission, and the nature of Christ's loving headship.",
+    "keywords": ["marriage", "submission", "mutual submission", "love", "agape", "husband", "wife", "roles", "headship", "Christ", "church", "sacrifice", "nourish", "cherish", "respect", "one flesh", "mystery", "Ephesians"],
+    "related_scripture": [
+      {
+        "text": "Colossians 3:18-19",
+        "url": "https://www.biblegateway.com/passage/?search=Colossians+3%3A18-19&version=NIV"
+      },
+      {
+        "text": "1 Peter 3:1-7",
+        "url": "https://www.biblegateway.com/passage/?search=1+Peter+3%3A1-7&version=NIV"
+      },
+      {
+        "text": "Genesis 2:24",
+        "url": "https://www.biblegateway.com/passage/?search=Genesis+2%3A24&version=NIV"
+      },
+      {
+        "text": "1 Corinthians 11:3",
+        "url": "https://www.biblegateway.com/passage/?search=1+Corinthians+11%3A3&version=NIV"
+      }
+    ],
+    "related_entries": ["SCRPT_GEN_2_24_ONE_FLESH", "SCRPT_1COR_13_4-8_LOVE_DESC"],
+    "qa_pairs": [
+      {
+        "question": "What is the context for the instructions to husbands and wives in Ephesians 5?",
+        "answer": "The instructions to husbands and wives in Ephesians 5:22-33 are given within the broader context of mutual submission among believers, as stated in Ephesians 5:21: \"Submit to one another out of reverence for Christ.\""
+      },
+      {
+        "question": "How are husbands told to love their wives in Ephesians 5?",
+        "answer": "Ephesians 5:25-30 commands husbands to love their wives sacrificially, just as Christ loved the church and gave himself up for her. This love involves nourishing, cherishing, and sanctifying their wives."
+      },
+      {
+        "question": "What analogy is used to describe marriage in Ephesians 5?",
+        "answer": "Ephesians 5 uses the analogy of the relationship between Christ and the church to describe marriage. The husband's loving headship mirrors Christ's headship, and the wife's submission mirrors the church's submission to Christ. The union is called a profound mystery reflecting this divine relationship."
+      }
+    ],
+    "instruction_response": [
+      {
+        "instruction": "Summarize the roles and responsibilities in marriage according to Ephesians 5:21-33.",
+        "response": "Ephesians 5:21-33, starting with mutual submission, instructs wives to submit to their husbands as the church does to Christ. It commands husbands to love their wives sacrificially and nurturingly, mirroring Christ's love for the church. The passage emphasizes love and respect as reciprocal duties within the marriage, which reflects the mystery of Christ and the church."
+      }
+    ],
+    "metadata": {
+      "creation_date": "2025-05-02",
+      "last_modified_date": "2025-05-02",
+      "contributor": "Initial Seed",
+      "version": 1,
+      "moderation_status": "Approved"
+    }
+  }
+]
+

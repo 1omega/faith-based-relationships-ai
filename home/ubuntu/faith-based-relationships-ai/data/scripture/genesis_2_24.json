@@ -1,0 +1,55 @@
+[
+  {
+    "entry_id": "SCRPT_GEN_2_24_ONE_FLESH",
+    "topic": ["Marriage", "Covenant", "Unity"],
+    "sub_topic": "One Flesh Union",
+    "faith_perspective": "Christian",
+    "source_type": "Scripture",
+    "source_reference": {
+      "text": "Genesis 2:24 (ESV)",
+      "url": "https://www.biblegateway.com/passage/?search=Genesis+2%3A24&version=ESV"
+    },
+    "content_summary": "Describes the foundational principle of marriage where a man leaves his parents, unites ('holds fast') with his wife, and they become 'one flesh,' signifying a deep, exclusive, and permanent bond.",
+    "content_detailed": "This verse establishes the divine pattern for marriage as presented in the creation account: 1) Leaving parental ties to form a new primary relationship ('leave his father and his mother'). 2) Committing with loyalty and devotion to one's spouse ('hold fast to his wife'). 3) Achieving a profound unity that encompasses not just physical union but also unity in purpose, spirit, and life ('they shall become one flesh'). This 'one flesh' union underscores the exclusivity and intended permanence of the marriage covenant, forming a new family unit distinct from the families of origin. Jesus Christ references this verse in Matthew 19:5 and Mark 10:7-8 when teaching against divorce, highlighting its foundational importance in God's design for marriage.",
+    "keywords": ["marriage", "one flesh", "unity", "covenant", "leave and cleave", "hold fast", "Genesis", "creation", "husband", "wife", "commitment", "exclusivity", "permanence", "divine pattern"],
+    "related_scripture": [
+      {
+        "text": "Matthew 19:5-6",
+        "url": "https://www.biblegateway.com/passage/?search=Matthew+19%3A5-6&version=ESV"
+      },
+      {
+        "text": "Mark 10:7-9",
+        "url": "https://www.biblegateway.com/passage/?search=Mark+10%3A7-9&version=ESV"
+      },
+      {
+        "text": "Ephesians 5:31",
+        "url": "https://www.biblegateway.com/passage/?search=Ephesians+5%3A31&version=ESV"
+      }
+    ],
+    "related_entries": [],
+    "qa_pairs": [
+      {
+        "question": "What does 'one flesh' mean in Genesis 2:24?",
+        "answer": "Becoming 'one flesh' in Genesis 2:24 signifies the deep unity intended in marriage, encompassing physical, emotional, spiritual, and purposeful union between a husband and wife, forming a new, primary, and exclusive bond distinct from their families of origin."
+      },
+      {
+        "question": "What are the three key actions described for marriage in Genesis 2:24?",
+        "answer": "Genesis 2:24 describes three key actions for establishing a marriage: 1) A man shall 'leave' his father and mother, signifying the priority of the new marital unit. 2) He shall 'hold fast' (or cleave) to his wife, indicating strong commitment and loyalty. 3) They shall 'become one flesh,' representing a comprehensive unity."
+      }
+    ],
+    "instruction_response": [
+      {
+        "instruction": "Explain the concept of marriage presented in Genesis 2:24.",
+        "response": "Genesis 2:24 presents marriage as a divine institution involving three key elements: 'leaving' the family of origin to establish a new primary unit, 'holding fast' (cleaving) to one's spouse in committed loyalty, and becoming 'one flesh,' signifying a profound and holistic union (physical, emotional, spiritual) that forms the basis of the marriage covenant."
+      }
+    ],
+    "metadata": {
+      "creation_date": "2025-05-02",
+      "last_modified_date": "2025-05-02",
+      "contributor": "Initial Seed",
+      "version": 1,
+      "moderation_status": "Approved"
+    }
+  }
+]
+

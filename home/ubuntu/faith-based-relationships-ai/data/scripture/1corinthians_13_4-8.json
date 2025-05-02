@@ -1,0 +1,55 @@
+[
+  {
+    "entry_id": "SCRPT_1COR_13_4-8_LOVE_DESC",
+    "topic": ["Love", "Character"],
+    "sub_topic": "Definition of Love",
+    "faith_perspective": "Christian",
+    "source_type": "Scripture",
+    "source_reference": {
+      "text": "1 Corinthians 13:4-8 (NIV)",
+      "url": "https://www.biblegateway.com/passage/?search=1%20Corinthians%2013%3A4-8&version=NIV"
+    },
+    "content_summary": "Describes the characteristics of true love: patient, kind, not envious, not boastful, not proud, not rude, not self-seeking, not easily angered, keeps no record of wrongs, does not delight in evil but rejoices with the truth, always protects, always trusts, always hopes, always perseveres. Love never fails.",
+    "content_detailed": "This passage from Paul's first letter to the Corinthians provides a foundational Christian definition of love ('agape' in Greek), often cited in the context of relationships. It contrasts love with spiritual gifts, emphasizing that love is superior and essential. The description focuses on love's actions and attitudes: patience and kindness are its active expressions; it lacks negative qualities like envy, boasting, pride, and rudeness; it is selfless, forgiving, and righteous; it endures through all circumstances ('protects, trusts, hopes, perseveres'); and it is eternal ('never fails'). This definition serves as a benchmark for behavior within Christian relationships, including marriage, family, and community.",
+    "keywords": ["love", "agape", "patience", "kindness", "envy", "boasting", "pride", "rude", "self-seeking", "anger", "forgiveness", "truth", "protection", "trust", "hope", "perseverance", "relationships", "marriage", "character", "1 Corinthians"],
+    "related_scripture": [
+      {
+        "text": "Galatians 5:22-23 (Fruit of the Spirit)",
+        "url": "https://www.biblegateway.com/passage/?search=Galatians%205%3A22-23&version=NIV"
+      },
+      {
+        "text": "Ephesians 4:2 (Bearing with one another in love)",
+        "url": "https://www.biblegateway.com/passage/?search=Ephesians%204%3A2&version=NIV"
+      },
+      {
+        "text": "Colossians 3:14 (Love binds everything together)",
+        "url": "https://www.biblegateway.com/passage/?search=Colossians%203%3A14&version=NIV"
+      }
+    ],
+    "related_entries": [],
+    "qa_pairs": [
+      {
+        "question": "What are the characteristics of love according to 1 Corinthians 13?",
+        "answer": "According to 1 Corinthians 13:4-8, love is patient, kind, not envious, not boastful, not proud, not rude, not self-seeking, not easily angered, keeps no record of wrongs, rejoices in truth, protects, trusts, hopes, perseveres, and never fails."
+      },
+      {
+        "question": "How does 1 Corinthians 13 define love in relationships?",
+        "answer": "1 Corinthians 13 defines love as the essential foundation for relationships, characterized by patience, kindness, humility, selflessness, forgiveness, truthfulness, and endurance. It sets a standard for how Christians should treat one another."
+      }
+    ],
+    "instruction_response": [
+      {
+        "instruction": "Summarize the definition of love found in 1 Corinthians 13:4-8.",
+        "response": "1 Corinthians 13:4-8 defines love through its actions and attitudes: it is patient and kind, free from negative traits like envy and pride, selfless and forgiving, aligned with truth, and characterized by endurance through protection, trust, hope, and perseverance. Ultimately, love is presented as unfailing and eternal."
+      }
+    ],
+    "metadata": {
+      "creation_date": "2025-05-02",
+      "last_modified_date": "2025-05-02",
+      "contributor": "Initial Seed",
+      "version": 1,
+      "moderation_status": "Approved"
+    }
+  }
+]
+

@@ -1,0 +1,160 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Faith-Based Relationship Data Entry",
+  "description": "Schema for a single entry in the Faith-Based Relationships AI Dataset.",
+  "type": "object",
+  "properties": {
+    "entry_id": {
+      "description": "Unique identifier (e.g., SCRPT_GEN_2_24_COMM, COUNSEL_COMM_LISTEN_01)",
+      "type": "string",
+      "pattern": "^[A-Z0-9_\\-]+$"
+    },
+    "topic": {
+      "description": "List of primary topics (e.g., [\"Marriage\", \"Communication\", \"Conflict Resolution\"])",
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1
+    },
+    "sub_topic": {
+      "description": "Optional: More specific sub-topic (e.g., \"Active Listening\")",
+      "type": ["string", "null"]
+    },
+    "faith_perspective": {
+      "description": "Primary perspective (initially 'Christian')",
+      "type": "string",
+      "enum": ["Christian"] 
+    },
+    "source_type": {
+      "description": "Type of the source material",
+      "type": "string",
+      "enum": ["Scripture", "Theology", "Counseling Guide", "Book Summary", "Article", "User Submission"]
+    },
+    "source_reference": {
+      "description": "Reference to the original source",
+      "type": "object",
+      "properties": {
+        "text": {
+          "description": "e.g., \"Genesis 2:24\", \"Book Title, Author, Chapter/Page\", \"Article Title, URL\"",
+          "type": "string"
+        },
+        "url": {
+          "description": "Optional: Direct URL to the source if available",
+          "type": ["string", "null"],
+          "format": "uri"
+        }
+      },
+      "required": ["text"]
+    },
+    "content_summary": {
+      "description": "Brief summary of the core teaching, advice, or concept.",
+      "type": "string"
+    },
+    "content_detailed": {
+      "description": "Detailed explanation, interpretation, application, context, nuances.",
+      "type": "string"
+    },
+    "keywords": {
+      "description": "List of relevant keywords for search and filtering.",
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "related_scripture": {
+      "description": "Optional: List of related scripture references",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "text": {
+            "description": "e.g., \"Ephesians 5:31\"",
+            "type": "string"
+          },
+          "url": {
+            "description": "Optional: URL",
+            "type": ["string", "null"],
+            "format": "uri"
+          }
+        },
+        "required": ["text"]
+      }
+    },
+    "related_entries": {
+      "description": "Optional: List of entry_ids for related concepts within this dataset.",
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[A-Z0-9_\\-]+$"
+      }
+    },
+    "qa_pairs": {
+      "description": "Optional: Specific Q&A pairs for training conversational AI",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "question": { "type": "string" },
+          "answer": { "type": "string" }
+        },
+        "required": ["question", "answer"]
+      }
+    },
+    "instruction_response": {
+      "description": "Optional: Examples formatted for instruction-following models",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "instruction": { "type": "string" },
+          "response": { "type": "string" }
+        },
+        "required": ["instruction", "response"]
+      }
+    },
+    "metadata": {
+      "description": "Metadata about the entry",
+      "type": "object",
+      "properties": {
+        "creation_date": {
+          "description": "Date the entry was created",
+          "type": "string",
+          "format": "date"
+        },
+        "last_modified_date": {
+          "description": "Date the entry was last modified",
+          "type": "string",
+          "format": "date"
+        },
+        "contributor": {
+          "description": "Name/ID of contributor or 'Initial Seed'",
+          "type": "string"
+        },
+        "version": {
+          "description": "Version number for this entry",
+          "type": "number",
+          "minimum": 1
+        },
+        "moderation_status": {
+          "description": "Status of the entry in the moderation workflow",
+          "type": "string",
+          "enum": ["Pending", "Approved", "Rejected", "Needs Review"]
+        }
+      },
+      "required": ["creation_date", "last_modified_date", "contributor", "version", "moderation_status"]
+    }
+  },
+  "required": [
+    "entry_id",
+    "topic",
+    "faith_perspective",
+    "source_type",
+    "source_reference",
+    "content_summary",
+    "content_detailed",
+    "keywords",
+    "metadata"
+  ]
+}
+

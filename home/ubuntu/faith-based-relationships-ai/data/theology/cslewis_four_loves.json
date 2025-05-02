@@ -1,0 +1,55 @@
+[
+  {
+    "entry_id": "THEO_CSLEWIS_FOUR_LOVES",
+    "topic": ["Love", "Relationships", "Theology"],
+    "sub_topic": "Types of Love (Storge, Philia, Eros, Agape)",
+    "faith_perspective": "Christian",
+    "source_type": "Book Summary",
+    "source_reference": {
+      "text": "C.S. Lewis, The Four Loves (1960)",
+      "url": null
+    },
+    "content_summary": "C.S. Lewis identifies four main types of love: Storge (affection, especially familial), Philia (friendship), Eros (romantic or erotic love), and Agape (unconditional, divine, charitable love). He argues that the first three are natural loves which are good but can become corrupted or idolatrous if not informed and perfected by Agape, God's love.",
+    "content_detailed": "In \"The Four Loves,\" C.S. Lewis explores the nature of love by categorizing it into four Greek terms. 1) Storge: This is affection, the comfortable, familiar love often found in families between parents and children, or even towards pets or familiar places. It is humble and arises naturally. 2) Philia: This is the love of friendship, based on shared interests, values, and companionship. Lewis considered it highly valuable, a bond between souls united in a common pursuit or vision. 3) Eros: This is romantic or passionate love, the state of being \"in love.\" While often associated with sexuality, Lewis distinguishes Eros itself from mere lust (Venus). Eros desires the beloved individual intensely. 4) Agape: This is unconditional, selfless, divine love, modeled on God's love for humanity. It is not dependent on the lovability of the object but is a love that gives and sacrifices without expecting return. Lewis posits that the natural loves (Storge, Philia, Eros), while gifts from God, are insufficient on their own and prone to distortion. They need Agape (God's grace and charity) to guide, purify, and elevate them, preventing them from becoming selfish or idolatrous. Agape enables loving others rightly and keeps the natural loves in their proper place.",
+    "keywords": ["love", "four loves", "CS Lewis", "storge", "affection", "family love", "philia", "friendship", "eros", "romantic love", "agape", "charity", "unconditional love", "divine love", "theology", "philosophy", "relationships", "natural love", "grace"],
+    "related_scripture": [
+      {
+        "text": "1 Corinthians 13 (Description of Agape)",
+        "url": "https://www.biblegateway.com/passage/?search=1+Corinthians+13&version=NIV"
+      },
+      {
+        "text": "John 15:13 (Greater love has no one than this...)",
+        "url": "https://www.biblegateway.com/passage/?search=John+15%3A13&version=NIV"
+      }
+    ],
+    "related_entries": ["SCRPT_1COR_13_4-8_LOVE_DESC"],
+    "qa_pairs": [
+      {
+        "question": "What are the four types of love described by C.S. Lewis?",
+        "answer": "C.S. Lewis described four types of love: Storge (affection), Philia (friendship), Eros (romantic love), and Agape (unconditional, divine love)."
+      },
+      {
+        "question": "According to C.S. Lewis, what is the relationship between natural loves and Agape?",
+        "answer": "C.S. Lewis argued that the natural loves (Storge, Philia, Eros) are good gifts but can become corrupted. They need Agape (divine, unconditional love) to perfect, purify, and guide them, keeping them from becoming idols."
+      },
+      {
+        "question": "What is the difference between Eros and Agape in Lewis' framework?",
+        "answer": "In Lewis' framework, Eros is passionate, romantic love that desires the beloved individual. Agape is selfless, unconditional, divine love that gives without expecting return, modeled on God's love for humanity."
+      }
+    ],
+    "instruction_response": [
+      {
+        "instruction": "Explain C.S. Lewis' concept of the Four Loves.",
+        "response": "C.S. Lewis categorized love into four types: Storge (familiar affection), Philia (friendship based on shared interests), Eros (passionate romantic love), and Agape (selfless, divine, unconditional love). He taught that the first three, the natural loves, while good, require Agape (God's love) to be properly ordered and perfected, preventing them from becoming distorted or idolatrous."
+      }
+    ],
+    "metadata": {
+      "creation_date": "2025-05-02",
+      "last_modified_date": "2025-05-02",
+      "contributor": "Initial Seed",
+      "version": 1,
+      "moderation_status": "Approved"
+    }
+  }
+]
+

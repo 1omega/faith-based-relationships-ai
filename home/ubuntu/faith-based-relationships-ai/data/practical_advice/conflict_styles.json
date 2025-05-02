@@ -1,0 +1,63 @@
+[
+  {
+    "entry_id": "PRACT_REL_CONFLICT_STYLES",
+    "topic": ["Conflict Resolution", "Communication", "Self-Awareness", "Practical Advice"],
+    "sub_topic": "Common Conflict Styles",
+    "faith_perspective": "Christian",
+    "source_type": "Practical Advice",
+    "source_reference": {
+      "text": "General Christian Relationship Advice & Conflict Resolution Models (e.g., Thomas-Kilmann Instrument)",
+      "url": null
+    },
+    "content_summary": "Understanding common conflict styles (e.g., Avoiding, Accommodating, Competing, Compromising, Collaborating) helps individuals recognize their own patterns and their partner's, enabling more constructive conflict resolution. Christian principles encourage moving towards collaborative, mutually respectful approaches.",
+    "content_detailed": "Recognizing how individuals typically respond to conflict is crucial for improving relationship dynamics. Common styles include: 1) **Avoiding:** Ignoring or withdrawing from conflict, hoping it will disappear (low assertiveness, low cooperativeness). Often leads to unresolved issues. 2) **Accommodating:** Giving in to the other party's desires, often neglecting one's own needs (low assertiveness, high cooperativeness). Can build goodwill but may lead to resentment. 3) **Competing:** Pursuing one's own concerns at the other's expense, using power or argument (high assertiveness, low cooperativeness). May achieve goals but damages relationships. 4) **Compromising:** Finding a middle ground where both parties give up something (moderate assertiveness, moderate cooperativeness). A practical solution but may not be optimal. 5) **Collaborating:** Working together to find a solution that fully satisfies both parties' concerns (high assertiveness, high cooperativeness). Requires time and effort but strengthens relationships. From a Christian perspective, while styles like accommodating or compromising might seem peaceful, the ideal aligns more with collaboration, which values both the relationship and the issue, seeking mutual understanding and benefit (Philippians 2:3-4, Matthew 5:9). Self-awareness of one's default style and understanding a partner's style allows for intentional shifts towards healthier, more Christ-like engagement in conflict.",
+    "keywords": ["conflict styles", "avoidance", "accommodating", "competing", "compromising", "collaborating", "conflict resolution", "communication", "self-awareness", "relationships", "Thomas-Kilmann", "assertiveness", "cooperativeness", "peacemaking"],
+    "related_scripture": [
+      {
+        "text": "Philippians 2:3-4 (Value others)",
+        "url": "https://www.biblegateway.com/passage/?search=Philippians+2%3A3-4&version=NIV"
+      },
+      {
+        "text": "Matthew 5:9 (Blessed are the peacemakers)",
+        "url": "https://www.biblegateway.com/passage/?search=Matthew+5%3A9&version=NIV"
+      },
+      {
+        "text": "Proverbs 15:1 (Gentle answer)",
+        "url": "https://www.biblegateway.com/passage/?search=Proverbs+15%3A1&version=NIV"
+      },
+      {
+        "text": "James 1:19 (Quick to listen)",
+        "url": "https://www.biblegateway.com/passage/?search=James+1%3A19&version=NIV"
+      }
+    ],
+    "related_entries": ["SCRPT_PROV_15_1_GENTLE_ANSWER", "COUNSEL_COMM_ACTIVE_LISTENING", "PRACT_REL_FORGIVENESS_PROCESS", "SCRPT_EPH_4_29-32_COMM_FORGIVE"],
+    "qa_pairs": [
+      {
+        "question": "What are the five common conflict styles?",
+        "answer": "The five common conflict styles are Avoiding (withdrawing), Accommodating (giving in), Competing (pursuing own goals forcefully), Compromising (finding middle ground), and Collaborating (working together for a win-win solution)."
+      },
+      {
+        "question": "Which conflict style is generally considered the most constructive?",
+        "answer": "Collaboration is generally considered the most constructive conflict style because it aims to find a solution that fully satisfies the concerns of both parties, strengthening the relationship in the process, though it requires significant effort."
+      },
+      {
+        "question": "How does understanding conflict styles help in relationships?",
+        "answer": "Understanding conflict styles helps individuals recognize their own tendencies and their partner's approach during disagreements. This awareness allows for more intentional communication and the ability to shift towards more constructive methods like collaboration, fostering better understanding and resolution."
+      }
+    ],
+    "instruction_response": [
+      {
+        "instruction": "Describe the five common styles of handling conflict.",
+        "response": "The five common conflict styles are: 1) Avoiding: Sidestepping the issue. 2) Accommodating: Yielding to the other person. 3) Competing: Pushing for one's own way. 4) Compromising: Both sides giving up something to meet halfway. 5) Collaborating: Working together to find a solution that meets both parties' needs fully."
+      }
+    ],
+    "metadata": {
+      "creation_date": "2025-05-02",
+      "last_modified_date": "2025-05-02",
+      "contributor": "Initial Seed",
+      "version": 1,
+      "moderation_status": "Approved"
+    }
+  }
+]
+

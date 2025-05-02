@@ -1,0 +1,55 @@
+[
+  {
+    "entry_id": "PRACT_REL_QUALITY_TIME",
+    "topic": ["Marriage", "Relationships", "Communication", "Practical Advice", "Intimacy"],
+    "sub_topic": "Spending Quality Time Together",
+    "faith_perspective": "Christian",
+    "source_type": "Practical Advice",
+    "source_reference": {
+      "text": "General Christian Relationship Advice",
+      "url": null
+    },
+    "content_summary": "Intentionally setting aside regular quality time for connection is vital for maintaining intimacy, communication, and overall health in a marriage or significant relationship. This counteracts the busyness of life and reinforces the priority of the relationship.",
+    "content_detailed": "In the midst of life's demands (work, children, ministry, chores), it's easy for couples to drift apart if they don't intentionally cultivate their connection. Spending regular quality time together is a practical way to nurture the marital bond, reflecting the value God places on the covenant relationship (Genesis 2:24). Quality time involves focused attention on each other, free from distractions. This can take many forms: scheduled date nights, shared hobbies or activities, regular walks, daily check-ins to discuss feelings and experiences, or simply dedicated time for conversation. Such intentionality fosters deeper communication, strengthens emotional intimacy, provides opportunities for mutual enjoyment and encouragement, and helps couples navigate challenges together. It's a way of actively stewarding the gift of marriage and prioritizing the \"one flesh\" union, reminding each other of their commitment and love.",
+    "keywords": ["quality time", "date night", "marriage enrichment", "relationships", "communication", "intimacy", "connection", "intentionality", "prioritizing marriage", "practical advice", "couple time", "stewardship"],
+    "related_scripture": [
+      {
+        "text": "Proverbs 5:18 (Rejoice with the wife of your youth)",
+        "url": "https://www.biblegateway.com/passage/?search=Proverbs+5%3A18&version=NIV"
+      },
+      {
+        "text": "Song of Solomon (Celebration of marital love and enjoyment)",
+        "url": null
+      },
+      {
+        "text": "Ecclesiastes 9:9 (Enjoy life with your wife)",
+        "url": "https://www.biblegateway.com/passage/?search=Ecclesiastes+9%3A9&version=NIV"
+      }
+    ],
+    "related_entries": ["SCRPT_GEN_2_24_ONE_FLESH", "COUNSEL_COMM_ACTIVE_LISTENING"],
+    "qa_pairs": [
+      {
+        "question": "Why is spending quality time important for a Christian marriage?",
+        "answer": "Spending quality time is important for a Christian marriage because it intentionally nurtures the bond, fosters communication and intimacy, helps couples stay connected amidst life's busyness, and reflects the value God places on the marriage covenant. It's a practical way to prioritize the relationship."
+      },
+      {
+        "question": "What are some examples of quality time for couples?",
+        "answer": "Examples of quality time include scheduled date nights, pursuing shared hobbies, going for walks together, having daily undistracted conversations about your day or feelings, praying together, or reading scripture together."
+      }
+    ],
+    "instruction_response": [
+      {
+        "instruction": "Explain the importance of quality time in maintaining a healthy relationship.",
+        "response": "Regular quality time is crucial for relationship health because it involves intentionally setting aside focused time for connection, free from distractions. This practice strengthens communication, deepens emotional intimacy, provides shared positive experiences, reinforces the priority of the relationship, and helps couples navigate life's challenges together, counteracting the tendency to drift apart due to busyness."
+      }
+    ],
+    "metadata": {
+      "creation_date": "2025-05-02",
+      "last_modified_date": "2025-05-02",
+      "contributor": "Initial Seed",
+      "version": 1,
+      "moderation_status": "Approved"
+    }
+  }
+]
+
