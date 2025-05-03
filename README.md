@@ -1,1 +1,0 @@
-#To create a comprehensive, structured, and community-driven dataset that can power applications for relationships and guidance from a faith perspective.
