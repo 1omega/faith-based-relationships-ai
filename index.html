@@ -1,0 +1,705 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Faith-Based Relationships AI Dataset</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Roboto+Slab:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <i class="fas fa-heart"></i>
+                    <h1>Faith-Based Relationships AI</h1>
+                </div>
+                <nav>
+                    <ul>
+                        <li><a href="#about">About</a></li>
+                        <li><a href="#structure">Structure</a></li>
+                        <li><a href="#schema">Schema</a></li>
+                        <li><a href="#examples">Examples</a></li>
+                        <li><a href="#contribute">Contribute</a></li>
+                        <li><a href="#applications">Applications</a></li>
+                        <li><a href="https://github.com/1omega/faith-based-relationships-ai" target="_blank" class="github-link"><i class="fab fa-github"></i> GitHub</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <h2>A Comprehensive Dataset for Faith-Based Relationship Guidance</h2>
+                <p>Structured information to power AI applications for relationship coaching, counseling, and guidance from a faith perspective</p>
+                <div class="hero-buttons">
+                    <a href="#structure" class="btn primary">Explore Dataset</a>
+                    <a href="#contribute" class="btn secondary">Contribute</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="about" class="about">
+        <div class="container">
+            <h2>About the Project</h2>
+            <div class="about-content">
+                <div class="about-text">
+                    <p>This repository aims to collect and structure information related to faith-based relationships, with an initial focus on Christian doctrine, for the purpose of training AI models.</p>
+                    
+                    <h3>Goal</h3>
+                    <p>To create a comprehensive, structured, and community-driven dataset that can power AI applications for relationship coaching, counseling, and guidance from a faith perspective.</p>
+                    
+                    <h3>Inspiration</h3>
+                    <p>The design draws inspiration from existing structured data repositories, particularly <a href="https://github.com/BradyStephenson/bible-data" target="_blank">BradyStephenson/bible-data</a>, for its methodical approach to linking entities (people, places, events) and referencing sources within biblical texts.</p>
+                </div>
+                <div class="about-visual">
+                    <div class="feature-card">
+                        <div class="icon"><i class="fas fa-database"></i></div>
+                        <h4>Structured Data</h4>
+                        <p>JSON-formatted entries with consistent schema</p>
+                    </div>
+                    <div class="feature-card">
+                        <div class="icon"><i class="fas fa-book"></i></div>
+                        <h4>Faith-Based</h4>
+                        <p>Initially focused on Christian doctrine</p>
+                    </div>
+                    <div class="feature-card">
+                        <div class="icon"><i class="fas fa-robot"></i></div>
+                        <h4>AI-Ready</h4>
+                        <p>Designed for training relationship guidance AI</p>
+                    </div>
+                    <div class="feature-card">
+                        <div class="icon"><i class="fas fa-users"></i></div>
+                        <h4>Community-Driven</h4>
+                        <p>Open for contributions with moderation</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="structure" class="structure">
+        <div class="container">
+            <h2>Repository Structure</h2>
+            <div class="structure-content">
+                <div class="directory-tree">
+                    <ul class="tree">
+                        <li>
+                            <span class="folder"><i class="fas fa-folder"></i> faith-based-relationships-ai/</span>
+                            <ul>
+                                <li>
+                                    <span class="folder"><i class="fas fa-folder"></i> data/</span>
+                                    <span class="description">Main directory for structured data files (JSON format)</span>
+                                    <ul>
+                                        <li>
+                                            <span class="folder"><i class="fas fa-folder"></i> scripture/</span>
+                                            <span class="description">Data derived directly from scripture interpretation</span>
+                                        </li>
+                                        <li>
+                                            <span class="folder"><i class="fas fa-folder"></i> theology/</span>
+                                            <span class="description">Data from theological sources/commentary</span>
+                                        </li>
+                                        <li>
+                                            <span class="folder"><i class="fas fa-folder"></i> counseling/</span>
+                                            <span class="description">Data related to counseling principles/practices</span>
+                                        </li>
+                                        <li>
+                                            <span class="folder"><i class="fas fa-folder"></i> practical_advice/</span>
+                                            <span class="description">General relationship advice from a faith perspective</span>
+                                        </li>
+                                        <li>
+                                            <span class="folder"><i class="fas fa-folder"></i> user_submissions/</span>
+                                            <span class="description">Moderated contributions (staging area)</span>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <span class="folder"><i class="fas fa-folder"></i> docs/</span>
+                                    <span class="description">Contains documentation</span>
+                                    <ul>
+                                        <li>
+                                            <span class="file"><i class="fas fa-file-alt"></i> repository_design.md</span>
+                                            <span class="description">Detailed design of the repository structure</span>
+                                        </li>
+                                        <li>
+                                            <span class="file"><i class="fas fa-file-code"></i> data_schema.json</span>
+                                            <span class="description">Formal JSON schema definition for validation</span>
+                                        </li>
+                                        <li>
+                                            <span class="file"><i class="fas fa-file-alt"></i> ai_agent_concept.md</span>
+                                            <span class="description">Conceptual outline for an AI counselor agent</span>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <span class="folder"><i class="fas fa-folder"></i> scripts/</span>
+                                    <span class="description">Utility scripts for data validation, processing, etc.</span>
+                                </li>
+                                <li>
+                                    <span class="file"><i class="fas fa-file-alt"></i> CONTRIBUTING.md</span>
+                                    <span class="description">Guidelines for contributing to the dataset</span>
+                                </li>
+                                <li>
+                                    <span class="file"><i class="fas fa-file-alt"></i> LICENSE</span>
+                                    <span class="description">CC BY-NC-SA 4.0 license</span>
+                                </li>
+                                <li>
+                                    <span class="file"><i class="fas fa-file-alt"></i> README.md</span>
+                                    <span class="description">Project overview and documentation</span>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+                <div class="structure-visual">
+                    <div class="structure-diagram">
+                        <div class="diagram-node main-node">
+                            <div class="node-icon"><i class="fas fa-project-diagram"></i></div>
+                            <div class="node-label">Faith-Based Relationships AI</div>
+                        </div>
+                        <div class="diagram-connections">
+                            <div class="diagram-node">
+                                <div class="node-icon"><i class="fas fa-database"></i></div>
+                                <div class="node-label">Data</div>
+                            </div>
+                            <div class="diagram-node">
+                                <div class="node-icon"><i class="fas fa-file-alt"></i></div>
+                                <div class="node-label">Documentation</div>
+                            </div>
+                            <div class="diagram-node">
+                                <div class="node-icon"><i class="fas fa-code"></i></div>
+                                <div class="node-label">Scripts</div>
+                            </div>
+                            <div class="diagram-node">
+                                <div class="node-icon"><i class="fas fa-hands-helping"></i></div>
+                                <div class="node-label">Contribution</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="schema" class="schema">
+        <div class="container">
+            <h2>Data Schema</h2>
+            <p class="section-intro">Data is stored in JSON format, with each file typically containing an array of data entries. Each entry adheres to the structure defined in <code>docs/data_schema.json</code>.</p>
+            
+            <div class="schema-content">
+                <div class="schema-visual">
+                    <div class="schema-diagram">
+                        <div class="schema-entity">
+                            <h3>Entry</h3>
+                            <div class="schema-properties">
+                                <div class="property required">
+                                    <span class="property-name">entry_id</span>
+                                    <span class="property-type">string</span>
+                                    <span class="property-desc">Unique identifier</span>
+                                </div>
+                                <div class="property required">
+                                    <span class="property-name">topic</span>
+                                    <span class="property-type">array</span>
+                                    <span class="property-desc">Primary topics</span>
+                                </div>
+                                <div class="property">
+                                    <span class="property-name">sub_topic</span>
+                                    <span class="property-type">string</span>
+                                    <span class="property-desc">More specific sub-topic</span>
+                                </div>
+                                <div class="property required">
+                                    <span class="property-name">faith_perspective</span>
+                                    <span class="property-type">string</span>
+                                    <span class="property-desc">Primary perspective</span>
+                                </div>
+                                <div class="property required">
+                                    <span class="property-name">source_type</span>
+                                    <span class="property-type">string</span>
+                                    <span class="property-desc">Type of source material</span>
+                                </div>
+                                <div class="property required">
+                                    <span class="property-name">source_reference</span>
+                                    <span class="property-type">object</span>
+                                    <span class="property-desc">Reference to original source</span>
+                                </div>
+                                <div class="property required">
+                                    <span class="property-name">content_summary</span>
+                                    <span class="property-type">string</span>
+                                    <span class="property-desc">Brief summary</span>
+                                </div>
+                                <div class="property required">
+                                    <span class="property-name">content_detailed</span>
+                                    <span class="property-type">string</span>
+                                    <span class="property-desc">Detailed explanation</span>
+                                </div>
+                                <div class="property required">
+                                    <span class="property-name">keywords</span>
+                                    <span class="property-type">array</span>
+                                    <span class="property-desc">Relevant keywords</span>
+                                </div>
+                                <div class="property">
+                                    <span class="property-name">related_scripture</span>
+                                    <span class="property-type">array</span>
+                                    <span class="property-desc">Related scripture references</span>
+                                </div>
+                                <div class="property">
+                                    <span class="property-name">related_entries</span>
+                                    <span class="property-type">array</span>
+                                    <span class="property-desc">Related concepts</span>
+                                </div>
+                                <div class="property">
+                                    <span class="property-name">qa_pairs</span>
+                                    <span class="property-type">array</span>
+                                    <span class="property-desc">Q&A pairs for AI training</span>
+                                </div>
+                                <div class="property">
+                                    <span class="property-name">instruction_response</span>
+                                    <span class="property-type">array</span>
+                                    <span class="property-desc">Examples for instruction models</span>
+                                </div>
+                                <div class="property required">
+                                    <span class="property-name">metadata</span>
+                                    <span class="property-type">object</span>
+                                    <span class="property-desc">Entry metadata</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="schema-code">
+                    <div class="code-header">
+                        <span>Example Schema (Simplified)</span>
+                        <button class="copy-btn" onclick="copyCode('schema-code-block')"><i class="fas fa-copy"></i></button>
+                    </div>
+                    <pre id="schema-code-block"><code>{
+  "entry_id": "SCRPT_PROV_15_1_GENTLE_ANSWER",
+  "topic": ["Conflict Resolution", "Communication"],
+  "sub_topic": "Responding Gently",
+  "faith_perspective": "Christian",
+  "source_type": "Scripture",
+  "source_reference": {
+    "text": "Proverbs 15:1 (NIV)",
+    "url": "https://www.biblegateway.com/passage/?search=Proverbs+15%3A1&version=NIV"
+  },
+  "content_summary": "Contrasts the effect of gentle versus harsh communication in conflict.",
+  "content_detailed": "A gentle answer defuses anger (\"turns away wrath\"), while a harsh word escalates it (\"stirs up anger\").",
+  "keywords": ["communication", "conflict", "gentleness", "anger"],
+  "related_scripture": [
+    { "text": "Ephesians 4:29" }
+  ],
+  "qa_pairs": [
+    {
+      "question": "How should I respond when my spouse is angry?",
+      "answer": "Proverbs 15:1 teaches that a gentle answer turns away wrath. Responding with gentleness rather than harshness can help de-escalate conflict."
+    }
+  ],
+  "metadata": {
+    "creation_date": "2023-05-15",
+    "last_modified_date": "2023-05-15",
+    "contributor": "Initial Seed",
+    "version": 1,
+    "moderation_status": "Approved"
+  }
+}</code></pre>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="examples" class="examples">
+        <div class="container">
+            <h2>Example Entries</h2>
+            <p class="section-intro">The dataset contains various types of entries from different sources, each following the standardized schema.</p>
+            
+            <div class="examples-tabs">
+                <div class="tabs-header">
+                    <button class="tab-btn active" onclick="showTab('scripture')">Scripture</button>
+                    <button class="tab-btn" onclick="showTab('theology')">Theology</button>
+                    <button class="tab-btn" onclick="showTab('counseling')">Counseling</button>
+                    <button class="tab-btn" onclick="showTab('practical')">Practical Advice</button>
+                </div>
+                <div class="tabs-content">
+                    <div id="scripture" class="tab-content active">
+                        <div class="example-card">
+                            <div class="example-header">
+                                <h3>Scripture-Based Entry</h3>
+                                <span class="entry-id">SCRPT_PROV_15_1_GENTLE_ANSWER</span>
+                            </div>
+                            <div class="example-body">
+                                <div class="example-field">
+                                    <span class="field-label">Source:</span>
+                                    <span class="field-value">Proverbs 15:1 (NIV)</span>
+                                </div>
+                                <div class="example-field">
+                                    <span class="field-label">Topics:</span>
+                                    <div class="tags">
+                                        <span class="tag">Conflict Resolution</span>
+                                        <span class="tag">Communication</span>
+                                        <span class="tag">Anger Management</span>
+                                    </div>
+                                </div>
+                                <div class="example-field">
+                                    <span class="field-label">Summary:</span>
+                                    <span class="field-value">Contrasts the effect of gentle versus harsh communication in conflict: a gentle answer defuses anger ("turns away wrath"), while a harsh word escalates it ("stirs up anger").</span>
+                                </div>
+                                <div class="example-field">
+                                    <span class="field-label">Q&A Example:</span>
+                                    <div class="qa-pair">
+                                        <div class="question">How should I respond when my spouse is angry?</div>
+                                        <div class="answer">Proverbs 15:1 teaches that a gentle answer turns away wrath. Responding with gentleness rather than harshness can help de-escalate conflict.</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="theology" class="tab-content">
+                        <div class="example-card">
+                            <div class="example-header">
+                                <h3>Theological Entry</h3>
+                                <span class="entry-id">THEO_MARRIAGE_COVENANT</span>
+                            </div>
+                            <div class="example-body">
+                                <div class="example-field">
+                                    <span class="field-label">Source:</span>
+                                    <span class="field-value">Theological Commentary on Marriage Covenant</span>
+                                </div>
+                                <div class="example-field">
+                                    <span class="field-label">Topics:</span>
+                                    <div class="tags">
+                                        <span class="tag">Marriage</span>
+                                        <span class="tag">Covenant</span>
+                                        <span class="tag">Commitment</span>
+                                    </div>
+                                </div>
+                                <div class="example-field">
+                                    <span class="field-label">Summary:</span>
+                                    <span class="field-value">Explores the theological understanding of marriage as a covenant relationship that reflects God's covenant with His people.</span>
+                                </div>
+                                <div class="example-field">
+                                    <span class="field-label">Q&A Example:</span>
+                                    <div class="qa-pair">
+                                        <div class="question">What does it mean that marriage is a covenant?</div>
+                                        <div class="answer">A covenant is more than a contract; it's a sacred bond. In Christian theology, marriage as a covenant means it's a binding relationship established before God, reflecting His faithful commitment to His people.</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="counseling" class="tab-content">
+                        <div class="example-card">
+                            <div class="example-header">
+                                <h3>Counseling Entry</h3>
+                                <span class="entry-id">COUNSEL_ACTIVE_LISTENING</span>
+                            </div>
+                            <div class="example-body">
+                                <div class="example-field">
+                                    <span class="field-label">Source:</span>
+                                    <span class="field-value">Christian Counseling Principles</span>
+                                </div>
+                                <div class="example-field">
+                                    <span class="field-label">Topics:</span>
+                                    <div class="tags">
+                                        <span class="tag">Communication</span>
+                                        <span class="tag">Listening</span>
+                                        <span class="tag">Empathy</span>
+                                    </div>
+                                </div>
+                                <div class="example-field">
+                                    <span class="field-label">Summary:</span>
+                                    <span class="field-value">Outlines the importance and techniques of active listening in Christian relationships, emphasizing presence, attention, and empathetic response.</span>
+                                </div>
+                                <div class="example-field">
+                                    <span class="field-label">Q&A Example:</span>
+                                    <div class="qa-pair">
+                                        <div class="question">How can I be a better listener to my partner?</div>
+                                        <div class="answer">Active listening involves giving your full attention, maintaining eye contact, avoiding interruptions, reflecting back what you hear, and responding with empathy. This approach honors your partner and follows the biblical principle of being "quick to listen, slow to speak" (James 1:19).</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="practical" class="tab-content">
+                        <div class="example-card">
+                            <div class="example-header">
+                                <h3>Practical Advice Entry</h3>
+                                <span class="entry-id">PRACT_CONFLICT_RESOLUTION</span>
+                            </div>
+                            <div class="example-body">
+                                <div class="example-field">
+                                    <span class="field-label">Source:</span>
+                                    <span class="field-value">Faith-Based Relationship Guide</span>
+                                </div>
+                                <div class="example-field">
+                                    <span class="field-label">Topics:</span>
+                                    <div class="tags">
+                                        <span class="tag">Conflict Resolution</span>
+                                        <span class="tag">Forgiveness</span>
+                                        <span class="tag">Reconciliation</span>
+                                    </div>
+                                </div>
+                                <div class="example-field">
+                                    <span class="field-label">Summary:</span>
+                                    <span class="field-value">Provides practical steps for resolving conflicts in relationships from a faith perspective, including prayer, honest communication, and seeking reconciliation.</span>
+                                </div>
+                                <div class="example-field">
+                                    <span class="field-label">Q&A Example:</span>
+                                    <div class="qa-pair">
+                                        <div class="question">What steps should we take when we have a serious disagreement?</div>
+                                        <div class="answer">First, pray together for wisdom and understanding. Second, each person should express their perspective using "I" statements while the other listens actively. Third, identify the core issue beneath the disagreement. Fourth, brainstorm solutions together. Finally, commit to a resolution and follow through, extending forgiveness as Christ forgave us (Colossians 3:13).</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contribute" class="contribute">
+        <div class="container">
+            <h2>How to Contribute</h2>
+            <p class="section-intro">We welcome contributions to expand and enrich this dataset! The contribution process ensures quality and consistency.</p>
+            
+            <div class="contribute-content">
+                <div class="contribute-steps">
+                    <div class="step">
+                        <div class="step-number">1</div>
+                        <div class="step-content">
+                            <h3>Fork the Repository</h3>
+                            <p>Create your own copy of the repository to work on.</p>
+                        </div>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">2</div>
+                        <div class="step-content">
+                            <h3>Create New Entry</h3>
+                            <p>Add a new JSON file following the schema format.</p>
+                        </div>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">3</div>
+                        <div class="step-content">
+                            <h3>Validate Format</h3>
+                            <p>Ensure your entry conforms to the data schema.</p>
+                        </div>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">4</div>
+                        <div class="step-content">
+                            <h3>Submit Pull Request</h3>
+                            <p>Submit your changes for review by maintainers.</p>
+                        </div>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">5</div>
+                        <div class="step-content">
+                            <h3>Moderation Review</h3>
+                            <p>Maintainers review for quality, accuracy, and alignment.</p>
+                        </div>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">6</div>
+                        <div class="step-content">
+                            <h3>Merge & Attribution</h3>
+                            <p>Approved entries are merged with contributor attribution.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="contribute-visual">
+                    <div class="workflow-diagram">
+                        <div class="workflow-node">
+                            <div class="node-icon"><i class="fas fa-code-branch"></i></div>
+                            <div class="node-label">Fork</div>
+                        </div>
+                        <div class="workflow-arrow"><i class="fas fa-arrow-right"></i></div>
+                        <div class="workflow-node">
+                            <div class="node-icon"><i class="fas fa-edit"></i></div>
+                            <div class="node-label">Create</div>
+                        </div>
+                        <div class="workflow-arrow"><i class="fas fa-arrow-right"></i></div>
+                        <div class="workflow-node">
+                            <div class="node-icon"><i class="fas fa-check-circle"></i></div>
+                            <div class="node-label">Validate</div>
+                        </div>
+                        <div class="workflow-arrow"><i class="fas fa-arrow-right"></i></div>
+                        <div class="workflow-node">
+                            <div class="node-icon"><i class="fas fa-code-pull-request"></i></div>
+                            <div class="node-label">Submit</div>
+                        </div>
+                        <div class="workflow-arrow"><i class="fas fa-arrow-right"></i></div>
+                        <div class="workflow-node">
+                            <div class="node-icon"><i class="fas fa-user-check"></i></div>
+                            <div class="node-label">Review</div>
+                        </div>
+                        <div class="workflow-arrow"><i class="fas fa-arrow-right"></i></div>
+                        <div class="workflow-node">
+                            <div class="node-icon"><i class="fas fa-code-merge"></i></div>
+                            <div class="node-label">Merge</div>
+                        </div>
+                    </div>
+                    <div class="contribute-cta">
+                        <h3>Ready to Contribute?</h3>
+                        <p>Read the detailed guidelines in CONTRIBUTING.md for more information.</p>
+                        <a href="https://github.com/1omega/faith-based-relationships-ai/blob/main/home/ubuntu/faith-based-relationships-ai/CONTRIBUTING.md" target="_blank" class="btn primary">View Contribution Guidelines</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="applications" class="applications">
+        <div class="container">
+            <h2>Applications & Use Cases</h2>
+            <p class="section-intro">This dataset can be used for various purposes in AI, research, content creation, and personal study.</p>
+            
+            <div class="applications-grid">
+                <div class="application-card">
+                    <div class="app-icon"><i class="fas fa-robot"></i></div>
+                    <h3>AI Training</h3>
+                    <p>Fine-tuning or providing context (via RAG) for Large Language Models (LLMs) to create AI-powered relationship coaches, counselors, or chatbots grounded in Christian principles.</p>
+                    <div class="app-example">
+                        <h4>Example:</h4>
+                        <p>A faith-based relationship counseling chatbot that provides biblically-informed advice on communication, conflict resolution, and marriage topics.</p>
+                    </div>
+                </div>
+                <div class="application-card">
+                    <div class="app-icon"><i class="fas fa-search"></i></div>
+                    <h3>Research</h3>
+                    <p>Analyzing patterns in faith-based relationship advice, scriptural interpretations, or counseling themes.</p>
+                    <div class="app-example">
+                        <h4>Example:</h4>
+                        <p>Academic study on how biblical principles are applied to modern relationship challenges across different theological traditions.</p>
+                    </div>
+                </div>
+                <div class="application-card">
+                    <div class="app-icon"><i class="fas fa-pen-fancy"></i></div>
+                    <h3>Content Creation</h3>
+                    <p>Serving as a structured knowledge base for articles, study guides, or educational materials on Christian relationships.</p>
+                    <div class="app-example">
+                        <h4>Example:</h4>
+                        <p>Marriage preparation course materials that systematically cover biblical principles for healthy relationships.</p>
+                    </div>
+                </div>
+                <div class="application-card">
+                    <div class="app-icon"><i class="fas fa-book-reader"></i></div>
+                    <h3>Personal Study</h3>
+                    <p>Exploring interconnected concepts and scriptures related to relationship topics.</p>
+                    <div class="app-example">
+                        <h4>Example:</h4>
+                        <p>Individual or couple's devotional study on biblical teachings about love, respect, and commitment in relationships.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="cta">
+        <div class="container">
+            <div class="cta-content">
+                <h2>Join the Community</h2>
+                <p>Help build a comprehensive resource for faith-based relationship guidance</p>
+                <div class="cta-buttons">
+                    <a href="https://github.com/1omega/faith-based-relationships-ai" target="_blank" class="btn primary"><i class="fab fa-github"></i> Visit GitHub Repository</a>
+                    <a href="#contribute" class="btn secondary">Learn How to Contribute</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-logo">
+                    <i class="fas fa-heart"></i>
+                    <h3>Faith-Based Relationships AI</h3>
+                </div>
+                <div class="footer-links">
+                    <div class="footer-column">
+                        <h4>Project</h4>
+                        <ul>
+                            <li><a href="#about">About</a></li>
+                            <li><a href="#structure">Structure</a></li>
+                            <li><a href="#schema">Schema</a></li>
+                            <li><a href="#examples">Examples</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-column">
+                        <h4>Contribute</h4>
+                        <ul>
+                            <li><a href="#contribute">How to Contribute</a></li>
+                            <li><a href="https://github.com/1omega/faith-based-relationships-ai/blob/main/home/ubuntu/faith-based-relationships-ai/CONTRIBUTING.md" target="_blank">Guidelines</a></li>
+                            <li><a href="https://github.com/1omega/faith-based-relationships-ai/issues" target="_blank">Issues</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-column">
+                        <h4>Resources</h4>
+                        <ul>
+                            <li><a href="#applications">Applications</a></li>
+                            <li><a href="https://github.com/1omega/faith-based-relationships-ai/blob/main/home/ubuntu/faith-based-relationships-ai/docs/ai_agent_concept.md" target="_blank">AI Agent Concept</a></li>
+                            <li><a href="https://github.com/1omega/faith-based-relationships-ai/blob/main/home/ubuntu/faith-based-relationships-ai/docs/data_schema.json" target="_blank">Data Schema</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>Licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a></p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // Tab functionality
+        function showTab(tabId) {
+            // Hide all tab contents
+            document.querySelectorAll('.tab-content').forEach(tab => {
+                tab.classList.remove('active');
+            });
+            
+            // Show the selected tab content
+            document.getElementById(tabId).classList.add('active');
+            
+            // Update active button
+            document.querySelectorAll('.tab-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            
+            // Find the button that triggered this and make it active
+            event.currentTarget.classList.add('active');
+        }
+        
+        // Copy code functionality
+        function copyCode(elementId) {
+            const codeElement = document.getElementById(elementId);
+            const codeText = codeElement.textContent;
+            
+            navigator.clipboard.writeText(codeText).then(() => {
+                const copyBtn = document.querySelector(`#${elementId} + .copy-btn`);
+                copyBtn.innerHTML = '<i class="fas fa-check"></i>';
+                
+                setTimeout(() => {
+                    copyBtn.innerHTML = '<i class="fas fa-copy"></i>';
+                }, 2000);
+            });
+        }
+        
+        // Mobile navigation toggle
+        document.addEventListener('DOMContentLoaded', function() {
+            const header = document.querySelector('header');
+            
+            window.addEventListener('scroll', function() {
+                if (window.scrollY > 50) {
+                    header.classList.add('scrolled');
+                } else {
+                    header.classList.remove('scrolled');
+                }
+            });
+        });
+    </script>
+</body>
+</html>
